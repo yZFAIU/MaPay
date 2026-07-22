@@ -1264,7 +1264,7 @@ static UIColor *XJAccent(void) {
     [gitStack addArrangedSubview:gitTitle];
 
     UILabel *gitURL = [[UILabel alloc] init];
-    gitURL.text = @"https://github.com/wanqi88/PayHook";
+    gitURL.text = @"https://github.com/yZFAIU/PayHook";
     gitURL.font = [UIFont fontWithName:@"Menlo" size:12] ?: [UIFont systemFontOfSize:12];
     gitURL.textColor = [UIColor colorWithRed:0.20 green:0.20 blue:0.22 alpha:1];
     gitURL.numberOfLines = 1;               // 超长地址：单行截断，超出隐藏
@@ -1309,7 +1309,7 @@ static UIColor *XJAccent(void) {
 }
 
 - (void)openRepo {
-    NSURL *url = [NSURL URLWithString:@"https://github.com/wanqi88/PayHook"];
+    NSURL *url = [NSURL URLWithString:@"https://github.com/yZFAIU/PayHook"];
     if (!url) return;
     if (@available(iOS 10.0, *)) {
         [[UIApplication sharedApplication] openURL:url options:@{} completionHandler:nil];
@@ -1319,7 +1319,7 @@ static UIColor *XJAccent(void) {
 }
 
 - (void)copyRepo {
-    [UIPasteboard generalPasteboard].string = @"https://github.com/wanqi88/PayHook";
+    [UIPasteboard generalPasteboard].string = @"https://github.com/yZFAIU/PayHook";
     XJShowCard(XJ_T(@"5bey5aSN5Yi2"), XJ_T(@"5byA5rqQ5Zyw5Z2A5bey5aSN5Yi25Yiw5Ymq6LS05p2/"));
 }
 
