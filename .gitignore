@@ -1,0 +1,28 @@
+# ── 运行时 / 敏感文件 ──
+server/data/*.png          # 私人收款码，勿提交
+server/data/*.log          # 运行日志
+server/data/screenshots/
+server/data/callback.log
+server/data/app.log
+
+# 备份文件
+*.bak
+*.bak.*
+
+# ── iOS 构建产物 ──
+PayHook-iOS/.theos/
+PayHook-iOS/.buildnum
+*.o
+*.dylib
+*.dSYM/
+
+# ── 依赖 / 环境 ──
+vendor/
+node_modules/
+.env
+.env.local
+
+# ── 系统文件 ──
+.DS_Store
+Thumbs.db
+*.swp

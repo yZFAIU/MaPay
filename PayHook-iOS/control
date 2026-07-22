@@ -1,0 +1,10 @@
+Package: com.xj.wechatpay
+Name: PayHook
+Depends: mobilesubstrate
+Version: 3.0.0-2
+Architecture: iphoneos-arm
+Description: 微信收款监控 (白黑版 by yZFAIU) — 仅检测微信收款助手，白底卡片 UI，订单匹配改为系统通知
+Maintainer: yZFAIU
+Author: yZFAIU
+Section: Tweaks
+Homepage: https://pay.yzfaiu.xyz
