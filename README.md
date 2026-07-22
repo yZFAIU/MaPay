@@ -5,6 +5,9 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Platform](https://img.shields.io/badge/platform-PHP%20%7C%20iOS-blue.svg)]()
+[![GitHub](https://img.shields.io/badge/GitHub-yZFAIU%2FMaPay-blue?logo=github)](https://github.com/yZFAIU/MaPay)
+
+> 📦 **仓库地址：** https://github.com/yZFAIU/MaPay
 
 ---
 
