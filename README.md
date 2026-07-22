@@ -1,3 +1,7 @@
+## 🤝 贡献者/开发者/思路提供
+
+- [@wanqi88](https://github.com/wanqi88) — 
+
 # MaPay 码支付系统
 
 > 基于个人微信收款码的轻量级支付接口系统，由 **PHP 服务端** 与 **iOS 微信收款监控插件** 两部分组成。
@@ -205,10 +209,6 @@ MaPay/
 - 本项目按 **"现状"（AS-IS）** 提供，作者不对使用后果作任何担保。
 
 ---
-
-## 🤝 贡献者/思路提供
-
-- [@wanqi88](https://github.com/wanqi88) — 
 
 欢迎提交 Issue 与 Pull Request。
 
