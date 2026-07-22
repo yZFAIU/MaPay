@@ -206,9 +206,9 @@ MaPay/
 
 ---
 
-## 🤝 贡献者
+## 🤝 贡献者/思路提供
 
-- [@yZFAIU](https://github.com/yZFAIU) — 项目作者 / 维护者
+- [@wanqi88](https://github.com/wanqi88) — 
 
 欢迎提交 Issue 与 Pull Request。
 
