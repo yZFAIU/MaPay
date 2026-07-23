@@ -1,6 +1,6 @@
 ## 🤝 贡献者/开发者/思路提供
 
-- [@wanqi88](https://github.com/wanqi88) —
+- [@wanqi88](https://github.com/wanqi88) 
 
 # MaPay 码支付系统
 
